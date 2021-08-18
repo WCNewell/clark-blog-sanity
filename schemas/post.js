@@ -48,6 +48,11 @@ export default {
       type: 'datetime',
     },
     {
+      name: 'tlDr',
+      title: 'TLDR',
+      type: 'string',
+    },
+    {
       name: 'body',
       title: 'Body',
       type: 'blockContent',
